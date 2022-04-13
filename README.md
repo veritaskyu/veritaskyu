@@ -1,28 +1,35 @@
 # Hi there👋
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-one-31.vercel.app/api?username=veritaskyu&count_private=true&theme=dracula)
+![GitHub stats](https://github-readme-stats-sigma-one-31.vercel.app/api?username=veritaskyu&count_private=true&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats-sigma-one-31.vercel.app/api/top-langs/?username=veritaskyu&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-one-31.vercel.app/api/top-langs/?username=veritaskyu&count_private=true&layout=compact&theme=darcula)
 
 ## 🙋‍♂️ Personal Info
 - Baek Yong kyu
 - Computer Science
 
 ## 🔨 Technology Stacks
+- Backend : <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Netty-D22128?style=flat&logo=Apache&logoColor=white"/></span>
+            <br/>
+            
+
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white"/></span><br/>
-             
-- Backend : <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
-            <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/></span>
-            <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></span><br/>
             
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white"/></span>
+             <span><img src="https://img.shields.io/badge/Redis-dc382d?style=flat&logo=Redis&logoColor=white"/></span>
              <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span><br/>
             
 - Mobile App : <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></span>
