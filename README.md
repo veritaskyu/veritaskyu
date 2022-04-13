@@ -1,8 +1,8 @@
 # Hi there👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veritaskyu&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-one-31.vercel.app/api?username=veritaskyu&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veritaskyu&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-one-31.vercel.app/api/top-langs/?username=veritaskyu&theme=dracula&count_private=true)
 
 ## 🙋‍♂️ Personal Info
 - Baek Yong kyu
