@@ -11,7 +11,8 @@
 ## 🔨 Technology Stacks
 - Backend : <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
             <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/></span>
-            <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
+            <span><img src="https://img.shields.io/badge/Spring-007396?style=flat&logo=Java&logoColor=white"/></span>
             <span><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/></span>
             <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/></span>
             <span><img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/></span>
