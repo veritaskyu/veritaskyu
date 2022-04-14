@@ -1,8 +1,8 @@
 # Hi there👋
 
-![GitHub stats](https://github-readme-stats-sigma-one-31.vercel.app/api?username=veritaskyu&count_private=true&show_icons=true&theme=darcula)
+![GitHub stats](https://github-readme-stats-sigma-one-31.vercel.app/api?username=veritaskyu&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-sigma-one-31.vercel.app/api/top-langs/?username=veritaskyu&count_private=true&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats-sigma-one-31.vercel.app/api/top-langs/?username=veritaskyu&count_private=true&layout=compact&theme=darcula&card_width=446)
 
 ## 🙋‍♂️ Personal Info
 - Baek Yong kyu
